@@ -1,0 +1,49 @@
+newmtl Project_MO_Gonzaloup:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PohotoShop_The_MAN.jpg
+Ni 1.00
+newmtl Project_MO_Gonzaloup:lambert3SG
+illum 4
+Kd 0.50 0.11 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Versiones01:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.79 0.79 0.79
+Ni 1.00
+newmtl Versiones01:lambert3SG
+illum 4
+Kd 0.50 0.28 0.28
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Versiones02:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 0.79 0.79 0.79
+Ni 1.00
+newmtl Versiones02:lambert3SG
+illum 4
+Kd 0.50 0.28 0.28
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl cuerpo:lambert3SG
+illum 4
+Kd 0.50 0.28 0.28
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
